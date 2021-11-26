@@ -45,6 +45,7 @@ document.getElementById('sizePicker').onsubmit = function () {
 MalumotOlish();
 };
 makeGrid (7, 7);
+// MUSLIMBEK TOSHkulov
 
 
 
